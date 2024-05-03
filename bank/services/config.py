@@ -1,0 +1,9 @@
+MAX_LOGIN_ATTEMPTS = 5
+
+HOST = 'localhost'
+USER = 'root'
+PASSWORD = 'YOUR_DB_PASSWORD'
+DATABASE = 'DATABASE'
+
+admin_mail = 'ADMIN_EMAILID'
+App_pass = 'EMAIL_APP_PASS'
